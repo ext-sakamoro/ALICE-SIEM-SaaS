@@ -1,5 +1,5 @@
 apiVersion: v2
-name: ALICE_SIEM
+name: alice-siem
 description: ALICE SIEM
 type: application
 version: 0.1.0
